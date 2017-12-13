@@ -57,6 +57,8 @@ example : file.path.brands=/home/sam/Dev/mall/brands.csv
 * Update the property "file.path.input" in application.properties file with the location of the above file
  example :  file.path.input=/home/sam/Dev/mall/input.csv
 
+* build the project with command "maven clean package" and execute it like any other jar file " java -jar <jar-file-path>"
+
 ### Who do I talk to? ###
 
 * sivasamraj.m@gmail.com
